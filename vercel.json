@@ -1,1 +1,1 @@
-{"version":2,"outputDirectory":"public","functions":{"api/audit.js":{"maxDuration":300}}}
+{"version":2,"framework":null,"outputDirectory":"public","functions":{"api/audit.js":{"maxDuration":300}}}
